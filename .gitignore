@@ -1,0 +1,13 @@
+#############################
+# Repository ignore strategy
+#############################
+
+# Global rules live here.
+# Subdirectory .gitignore files should only contain folder-specific exceptions.
+# Prefer short, commented sections.
+
+#############################
+# Editors & IDEs
+#############################
+
+.vscode/
