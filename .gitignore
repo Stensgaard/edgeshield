@@ -1,0 +1,12 @@
+#############################
+# Repository ignore strategy
+#############################
+
+# Global rules live here.
+# Prefer short, commented sections.
+
+#############################
+# Editors & IDEs
+#############################
+
+.vscode/
